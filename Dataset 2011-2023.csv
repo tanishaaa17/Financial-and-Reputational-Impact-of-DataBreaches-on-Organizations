@@ -1,0 +1,364 @@
+Year,Organization Name,Organization Type,Description of Data Breach,Country,Financial Impacts,Reutational impacts,Method of Breach,Source Of News
+2011,Sony,Corporation,"Hacked, exposing customer data",USA,170000000,High,Hacking,TechCrunch
+2011,RSA Security,Security Firm,"Hacked, compromising SecurID tokens",USA,66000000,High,Hacking,Reuters
+2011,Epsilon,Marketing Firm,Phishing attack on email systems,USA,4000000,Moderate,Phishing,ZDNet
+2011,CitiGroup,Bank,Hackers accessed customer accounts,USA,2700000,High,Hacking,BBC News
+2011,Sony Pictures,Media Company,"Hacktivist attack, data leaked",USA,3000000,High,Hacking,The Guardian
+2011,PBS,Media Organization,"Hacktivist group attack, data leaked",USA,500000,Moderate,Hacking,CNN
+2011,Reliance Communications,Telecommunications,Employee data exposed through phishing attack,India,"$500,000",Moderate,Phishing,Times of India
+2011,WordPress,Web Platform,"Server attack, user data exposed",USA,1000000,Moderate,Hacking,Mashable
+2011,Sega,Gaming Company,"Hacked, exposing user info",Japan,5000000,High,Hacking,IGN
+2011,Valve,Gaming Company,"Database hacked, user info exposed",USA,2000000,High,Hacking,Kotaku
+2011,Gawker Media,Media Company,"Database hacked, user data leaked",USA,1000000,High,Hacking,Wired
+2011,Bethesda Softworks,Gaming Company,"Hacked, exposing customer data",USA,1500000,High,Hacking,Polygon
+2011,Acer,Electronics,"Hacked, customer data leaked",Taiwan,2000000,Moderate,Hacking,The Verge
+2011,Fox Broadcasting,Media Company,"Hacked, user data exposed",USA,3000000,High,Hacking,The Hollywood Reporter
+2011,SBI (State Bank of India),Financial Services,Customer data leaked due to server misconfiguration,India,"$1,000,000",High,Server breach,Business Today
+2011,Honda,Automotive,Customer database hacked,Japan,10000000,Moderate,Hacking,Car and Driver
+2011,Sutter Health,Healthcare,Stolen unencrypted laptop,USA,5000000,High,Theft,Health IT Security
+2011,Stratfor,Security Firm,"Hacked, customer data exposed",USA,3000000,High,Hacking,The Daily Beast
+2011,NASDAQ,Stock Exchange,"Hacked, internal systems breached",USA,10000000,High,Hacking,Bloomberg
+2011,Tata Consultancy Services (TCS),IT Services,Client data breached during a cyber attack,India,"$3,000,000",High,Cyber attack,Reuters
+2011,LinkedIn,Social Network,"Hacked, passwords leaked",USA,10000000,High,Hacking,Forbes
+2011,Steam,Gaming Platform,"Hacked, customer data exposed",USA,3000000,High,Hacking,PC Gamer
+2011,Nvidia,Technology,"Hacked, user data exposed",USA,2000000,Moderate,Hacking,TechRadar
+2011,IMF,Financial,Cyberattack on internal network,USA,5000000,High,Hacking,Financial Times
+2011,Michael's Stores,Retail,Card skimming at multiple locations,USA,2000000,Moderate,Skimming,USA Today
+2011,RSA Security,Security Firm,SecurID tokens compromised,USA,66000000,High,Hacking,The Wall Street Journal
+2011,Sony BMG,Music Company,"Hacked, customer data leaked",USA,4000000,High,Hacking,Rolling Stone
+2011,Zappos,Retail,"Hacked, customer info exposed",USA,3000000,High,Hacking,NBC News
+2011,HDFC Bank,Financial Services,ATM data compromised due to malware infection,India,"$2,500,000",High,Malware infection,Economic Times
+2012,LinkedIn,Social Network,Passwords of 6.5M accounts stolen,USA,1000000,High,Hacking,VisualEdgeIT
+2012,Global Payments,Payment Processor,Card data of 1.5M accounts compromised,USA,94000000,High,Hacking,ThreatAdvice
+2012,Infosys,IT Services,Intellectual property data exposed by insider threat,India,"$2,000,000",High,Insider threat,Business Standard
+2012,South Carolina Dept. of Revenue,Government,Personal info of 3.8M tax filers accessed,USA,140000000,High,Phishing,ThreatAdvice
+2012,Wyndham Worldwide,Hospitality,Credit card data of 600K customers exposed,USA,10000000,High,Hacking,Oxford Academic
+2012,Emory Healthcare,Healthcare,Data of 315K patients lost,USA,5000000,High,Theft,ThreatAdvice
+2012,Flipkart,E-commerce,Payment information compromised in a hacking incident,India,"$1,800,000",High,Hacking incident,Times of India
+2012,Visa/Mastercard,Payment Processor,Data breach involving payment cards,USA,100000000,High,Hacking,ThreatAdvice
+2012,Blizzard Entertainment,Gaming,User account data including email addresses and encrypted passwords accessed,USA,2000000,Moderate,Hacking,VisualEdgeIT
+2012,Yahoo!,Internet Services,Email addresses and passwords of 450K users leaked,USA,20000000,High,Hacking,ThreatAdvice
+2012,South Carolina Dept. of Revenue,Government,Personal data of 3.8M taxpayers exposed,USA,140000000,High,Phishing,Oxford Academic
+2012,Global Payments,Payment Processor,Card data of 1.5M users stolen,USA,94000000,High,Hacking,VisualEdgeIT
+2012,Airtel,Telecommunications,Customer records leaked due to unsecured database,India,"$1,200,000",Moderate,Unsecured DB,Economic Times
+2012,Zappos,Retail,Data of 24M customers compromised,USA,5000000,High,Cyberattack,ThreatAdvice
+2012,Utah Department of Health,Government,Personal info of 780K people stolen,USA,3000000,High,Hacking,VisualEdgeIT
+2012,Dropbox,Cloud Storage,User emails and passwords accessed,USA,2000000,Moderate,Hacking,ThreatAdvice
+2012,ICICI Bank,Financial Services,Credit card information stolen from database,India,"$4,500,000",High,Database breach,Hindustan Times
+2012,Wyndham Worldwide,Hospitality,Card data of 600K users stolen,USA,10000000,High,Hacking,Oxford Academic
+2012,Nationwide,Insurance,Data of 1.1M customers exposed,USA,5000000,Moderate,Hacking,ThreatAdvice
+2012,NASA,Government,"Data of 10,000 employees stolen",USA,5000000,Moderate,Hacking,VisualEdgeIT
+2012,Emory Healthcare,Healthcare,Personal data of 315K patients lost,USA,5000000,High,Theft,ThreatAdvice
+2013,Target Corporation,Retail,Theft of credit and debit card information from 70 million customers,USA,162000000,High,Hacking,"Infosec, ar5iv.org"
+2013,Yahoo,Technology,"Breach affecting all 3 billion accounts, including names and encrypted passwords",USA,350000000,High,Hacking,"NY Times, PECB"
+2013,Adobe Systems,Software,"Compromise of 152 million records, including customer information and source code",USA,100000000,High,Hacking,Infosec
+2013,Neiman Marcus,Retail,"Credit card data theft affecting 350,000 cards",USA,10000000,High,Malware,Infosec
+2013,Evernote,Technology,"Unauthorized access to customer usernames, email addresses, and encrypted passwords",USA,5000000,Moderate,Hacking,Infosec
+2013,LivingSocial,E-commerce,50 million user accounts compromised including names and encrypted passwords,USA,5000000,Moderate,Hacking,Infosec
+2013,Facebook,Social Media,Exposure of 6 million users' email addresses and phone numbers,USA,3000000,Moderate,Software Bug,Business Insider
+2013,Vodafone,Telecommunications,Personal details of 2 million German customers compromised,Germany,5000000,High,Hacking,"BBC, PECB"
+2013,Korea Credit Bureau,Financial Services,Personal data of 20 million South Koreans stolen,South Korea,10000000,High,Insider,Infosec
+2013,Schnucks,Retail,2.4 million credit and debit cards compromised,USA,5000000,Moderate,Hacking,Infosec
+2013,Washington State Courts,Government,"160,000 social security numbers and 1 million driver's licenses exposed",USA,5000000,High,Hacking,Infosec
+2013,LaCie,Technology,Credit card information and passwords compromised,USA,1000000,Moderate,Hacking,Infosec
+2013,TrueCrypt,Software,Source code repository hacked,USA,1000000,Low,Hacking,Infosec
+2013,Wipro,IT Services,Client data compromised through compromised email accounts,India,"$5,000,000",High,Email compromise,The Hindu
+2013,AT&T,Telecommunications,Unauthorized access to customer information,USA,5000000,Moderate,Insider,Infosec
+2013,Snapchat,Social Media,Usernames and phone numbers of 4.6 million users exposed,USA,1000000,Moderate,Hacking,Infosec
+2013,Federal Reserve,Government,"Information on 10,000 banking executives stolen",USA,2000000,High,Hacking,Infosec
+2013,Paytm,Financial Services,User accounts breached via phishing attack,India,"$800,000",Moderate,Phishing,NDTV
+2013,Kickstarter,E-commerce,"Data breach affecting usernames, email addresses, and encrypted passwords",USA,500000,Moderate,Hacking,Infosec
+2013,NASDAQ,Financial Services,Cyber-attack targeting internal systems,USA,10000000,High,Hacking,Infosec
+2013,ONGC (Oil and Natural Gas Corporation),Energy,Sensitive operational data exposed in cyber espionage,India,"$10,000,000",High,Cyber espionage,Economic Times
+2013,South Carolina Department of Revenue,Government,Social security numbers and tax information of 3.6 million residents exposed,USA,10000000,High,Hacking,Infosec
+2013,Bit9,Technology,Hackers accessed internal systems to distribute malware,USA,1000000,Moderate,Hacking,Infosec
+2013,The Spamhaus Project,Non-Profit,Distributed denial-of-service (DDoS) attack,International,500000,Moderate,DDoS Attack,Infosec
+2013,Bharat Heavy Electricals Limited (BHEL),Manufacturing,Employee data leaked due to third-party vendor breach,India,"$600,000",Moderate,Vendor breach,Business Today
+2013,Smucker's,Food and Beverage,Unauthorized access to customer credit card information,USA,5000000,Moderate,Hacking,Infosec
+2013,National White Collar Crime Center,Government,Data breach exposing personal information of employees,USA,1000000,Moderate,Hacking,Infosec
+2013,Maricopa County Community College District,Education,Breach affecting personal information of 2.4 million people,USA,5000000,High,Hacking,Infosec
+2013,PR Newswire,Media,Hackers accessed customer usernames and passwords,USA,1000000,Moderate,Hacking,Infosec
+2014,eBay,E-commerce,Data of 145 million users compromised,USA,"200,000,000",High,Stolen credentials,Forbes
+2014,JPMorgan Chase,Finance,Data of 83 million households breached,USA,"1,000,000,000",High,Hacked database,BBC
+2014,Vodafone India,Telecommunications,Customer data accessed by unauthorized personnel,India,"3,200,000",High,Unauthorized access,Times of India
+2014,Home Depot,Retail,Data of 56 million payment cards stolen,USA,"62,000,000",High,Point of sale malware,CNN
+2014,Sony Pictures,Entertainment,"Data of 47,000 employees leaked",USA,"100,000,000",High,Hacked by Guardians of Peace,The Guardian
+2014,Community Health Systems,Healthcare,Data of 4.5 million patients compromised,USA,"150,000,000",High,Cyberattack,Reuters
+2014,Kmart,Retail,"Data of 2,200 stores compromised",USA,"50,000,000",High,Malware attack,Forbes
+2014,Cognizant Technology Solutions,IT Services,Intellectual property stolen by ex-employees,India,"6,500,000",High,Insider theft,Livemint
+2014,Michaels Stores,Retail,Data of 2.6 million payment cards stolen,USA,"35,000,000",High,Point of sale malware,CNN
+2014,Neiman Marcus,Retail,Data of 1.1 million payment cards stolen,USA,"20,000,000",High,Point of sale malware,The Guardian
+2014,P.F. Chang's,Food and Beverage,Data of 7 million payment cards stolen,USA,"2,000,000",High,Point of sale malware,Forbes
+2014,Goodwill Industries,Non-profit,"Data of 868,000 payment cards stolen",USA,"2,000,000",High,Malware attack,CNN
+2014,Dairy Queen,Food and Beverage,"Data of 600,000 payment cards stolen",USA,"2,500,000",High,Malware attack,The Guardian
+2014,Jimmy John's,Food and Beverage,Data of 216 stores breached,USA,"4,500,000",High,Point of sale malware,Reuters
+2014,Staples,Retail,Data of 1.16 million payment cards stolen,USA,"10,000,000",High,Point of sale malware,Forbes
+2014,SuperValu,Retail,Data of 60 million payment cards stolen,USA,"200,000,000",High,Point of sale malware,CNN
+2014,UPS Store,Retail,"Data of 105,000 payment cards stolen",USA,"5,000,000",High,Malware attack,The Guardian
+2014,Mahindra & Mahindra,Automotive,Employee payroll data leaked due to internal error,India,"400,000",Low,Internal error,Business Standard
+2014,Bebe Stores,Retail,Data of 200 stores breached,USA,"5,000,000",High,Malware attack,Reuters
+2014,Albertsons,Retail,Data of 700 stores compromised,USA,"5,000,000",High,Malware attack,Forbes
+2014,Acme Markets,Retail,Data of 135 stores breached,USA,"4,000,000",High,Malware attack,CNN
+2014,Shaw's Supermarkets,Retail,Data of 107 stores compromised,USA,"3,000,000",High,Malware attack,The Guardian
+2014,Hindustan Unilever,Consumer Goods,Customer information compromised during website vulnerability,India,"1,000,000",Moderate,Website vulnerability,Economic Times
+2014,Save Mart Supermarkets,Retail,Data of 39 stores breached,USA,"1,500,000",High,Malware attack,Reuters
+2014,Safeway,Retail,Data of 79 stores breached,USA,"5,500,000",High,Malware attack,Forbes
+2014,Sony Online Entertainment,Entertainment,Data of 25 million users breached,USA,"1,200,000",High,Cyberattack,CNN
+2014,VFW,Non-profit,"Data of 55,000 members stolen",USA,"500,000",High,Cyberattack,The Guardian
+2014,Albertsons Companies,Retail,"Data of 30,000 employees compromised",USA,"1,000,000",High,Cyberattack,Reuters
+2015,Excellus BlueCross BlueShield,Healthcare,Data breach exposing information of 10 million customers,USA,"17,000,000",High,Hacking,Digital Guardian
+2015,Premera,Healthcare,Data breach affecting 11 million customers with sensitive information exposed,USA,"74,000,000",High,Hacking,Digital Guardian
+2015,Tech Mahindra,IT Services,Client data exposed through cloud misconfiguration,India,"1,500,000",High,Cloud misconfig,Economic Times
+2015,VTech,Technology,Breach exposing data of 4.9 million parents and 6.4 million children,Hong Kong,"1,000,000",High,Hacking,Digital Guardian
+2015,T-Mobile (via Experian),Telecommunications,Data breach exposing personal data of 15 million customers,USA,"15,000,000",High,Third-party breach,Digital Guardian
+2015,Office of Personnel Management,Government,Breach exposing personal information of 21.5 million government workers,USA,"133,000,000",High,Hacking,Digital Guardian
+2015,Bajaj Auto,Automotive,Design specifications stolen by cyber criminals,India,"3,800,000",High,Cyber theft,The Hindu
+2015,Ashley Madison,Social Networking,Data breach exposing records of 37 million users,USA,"1,000,000",High,Hacking,Digital Guardian
+2015,Anthem,Healthcare,Breach exposing data of 78.8 million individuals,USA,"100,000,000",High,Hacking,Hartman Advisors
+2015,UCLA Health,Healthcare,Breach exposing data of 4.5 million patients,USA,"8,500,000",High,Hacking,Hartman Advisors
+2015,Experian,Credit Reporting,Breach impacting 15 million T-Mobile customers,USA,"20,000,000",High,Hacking,Hartman Advisors
+2015,JP Morgan Chase,Financial Services,Breach exposing data of 83 million households and small businesses,USA,"100,000,000",High,Hacking,Hartman Advisors
+2015,Harvard University,Education,Breach exposing information of multiple departments,USA,"6,000,000",Moderate,Hacking,Hartman Advisors
+2015,Scottrade,Financial Services,Breach exposing data of 4.6 million customers,USA,"10,000,000",Moderate,Hacking,Hartman Advisors
+2015,LastPass,Technology,Breach exposing encrypted passwords and email addresses,USA,"2,000,000",High,Hacking,Hartman Advisors
+2015,OPM,Government,Breach exposing sensitive information including fingerprints of 5.6 million people,USA,"50,000,000",High,Hacking,Hartman Advisors
+2015,Hacking Team,Technology,"Breach exposing emails, documents, source code, and exploits",Italy,"5,000,000",High,Hacking,Hartman Advisors
+2015,Harvard University,Education,Data breach affecting multiple departments,USA,"6,000,000",Moderate,Hacking,Hartman Advisors
+2015,German Bundestag,Government,Cyberattack on the Bundestag's internal data network,Germany,"5,000,000",High,Hacking,Hartman Advisors
+2015,Indian Oil Corporation,Energy,Operational data breached in a targeted cyber attack,India,"7,000,000",High,Targeted attack,Times of India
+2015,Uber,Transportation,"Breach exposing data of 50,000 drivers",USA,"5,000,000",Moderate,Hacking,Hartman Advisors
+2015,Carphone Warehouse,Retail,Data breach affecting 2.4 million customers,UK,"7,500,000",Moderate,Hacking,Hartman Advisors
+2015,Kids Pass,Education,Breach exposing 6.4 million children's accounts,USA,"1,000,000",High,Hacking,Digital Guardian
+2015,Titan Company,Consumer Goods,Customer database compromised due to SQL injection,India,"2,300,000",High,SQL injection,Business Today
+2015,MacKeeper,Technology,Breach exposing data of 13 million users,USA,"3,000,000",High,Misconfigured database,Digital Guardian
+2015,Hello Kitty,Entertainment,Breach exposing data of 3.3 million accounts,Japan,"500,000",Moderate,Hacking,Digital Guardian
+2015,Slack,Technology,Breach exposing user profile information,USA,"2,000,000",Low,Hacking,Digital Guardian
+2015,British Airways,Transportation,Data breach exposing personal information and payment details,UK,"26,000,000",High,Hacking,Digital Guardian
+2015,TalkTalk,Telecommunications,"Data breach affecting 156,959 customers",UK,"84,000,000",High,Hacking,Hartman Advisors
+2016,Yahoo,Technology,Data of 500 million users stolen,USA,"350,000,000",High,Unauthorized access,Reuters
+2016,LinkedIn,Technology,Passwords of 117 million users leaked,USA,"100,000,000",High,Stolen credentials,Forbes
+2016,Adult FriendFinder,Social Networking,Data of 412 million users exposed,USA,"16,000,000",High,Hacked database,CNN
+2016,MySpace,Social Networking,Data of 360 million users breached,USA,"4,000,000",High,Stolen credentials,BBC
+2016,IndiGo Airlines,Transportation,Passenger information breached due to third-party compromise,India,"900,000",Moderate,Third-party compromise,Times of India
+2016,Dropbox,Technology,Credentials of 68 million users leaked,USA,"3,600,000",High,Stolen credentials,TechCrunch
+2016,VKontakte,Social Networking,Data of 171 million users compromised,Russia,"2,000,000",High,Unauthorized access,Reuters
+2016,Twitter,Technology,Data of 32 million users leaked,USA,"3,200,000",High,Stolen credentials,CNN
+2016,Friendster,Social Networking,Data of 65 million users exposed,USA,"1,000,000",High,Hacked database,Forbes
+2016,TeamViewer,Technology,Accounts of millions breached,Germany,"1,700,000",High,Unauthorized access,BBC
+2016,Dropbox,Technology,Credentials of 68 million users leaked,USA,"3,600,000",High,Stolen credentials,TechCrunch
+2016,Badoo,Social Networking,Data of 112 million users compromised,UK,"1,000,000",High,Unauthorized access,The Guardian
+2016,Tumblr,Social Networking,Data of 65 million users breached,USA,"1,000,000",High,Hacked database,Forbes
+2016,Maruti Suzuki,Automotive,Employee personal data leaked through phishing attack,India,"300,000",Low,Phishing attack,Livemint
+2016,Dailymotion,Technology,Data of 87 million users leaked,France,"1,300,000",High,Stolen credentials,Reuters
+2016,Minecraft Forum,Gaming Community,Data of 71 million users breached,USA,"1,100,000",High,Hacked database,TechCrunch
+2016,Last.fm,Music Community,Data of 43 million users exposed,UK,"1,000,000",High,Unauthorized access,BBC
+2016,MPGH,Gaming Community,Data of 3.1 million users breached,USA,"600,000",High,Stolen credentials,The Guardian
+2016,Snapchat,Technology,Data of 4.6 million users exposed,USA,"300,000",High,Unauthorized access,CNN
+2016,HCL Technologies,IT Services,Client data exposed due to unsecured server configuration,India,"4,000,000",High,Server config.,Business Standard
+2016,Disqus,Technology,Data of 17.5 million users leaked,USA,"300,000",High,Stolen credentials,Forbes
+2016,500px,Photography Community,Data of 14.8 million users exposed,Canada,"350,000",High,Unauthorized access,Reuters
+2016,PVR Cinemas,Entertainment,Customer payment details stolen in a cyber attack,India,"600,000",Moderate,Cyber attack,Economic Times
+2016,InterPals,Social Networking,Data of 1.5 million users exposed,USA,"200,000",High,Unauthorized access,BBC
+2016,Rambler,Technology,Data of 98 million users leaked,Russia,"700,000",High,Unauthorized access,Reuters
+2016,Evony,Gaming Community,Data of 33 million users compromised,USA,"500,000",High,Stolen credentials,TechCrunch
+2016,Demonoid,File Sharing,Data of 3.6 million users exposed,Canada,"400,000",High,Hacked database,The Guardian
+2016,Weebly,Technology,Data of 43 million users compromised,USA,"1,200,000",High,Unauthorized access,Forbes
+2016,ClixSense,Survey Community,Data of 6.6 million users exposed,USA,"200,000",High,Stolen credentials,BBC
+2017,Equifax,Financial Services,Personal data of 143 million customers compromised,USA,$1.4 billion,High,Cyberattack,News outlets
+2017,WannaCry Ransomware,Malware,Ransomware attack on global systems,Global,$4 billion,High,Malware infection,Cybersecurity reports
+2017,Uber,Technology,Data of 57 million customers and drivers exposed,USA,$148 million,Moderate,Data breach,Company statement
+2017,Yahoo,Technology,Data of 3 billion accounts stolen,USA,$350 million,High,Cyberattack,Company disclosure
+2017,NHS England,Healthcare,Cyberattack on healthcare system,UK,$100 million,High,Ransomware,NHS statement
+2017,Verizon,Telecommunications,Customer data leaked online,USA,"$100,000",Low,Configuration error,Security researcher report
+2017,DocuSign,Technology,Phishing attack on customer emails,USA,$15 million,Moderate,Phishing,Company disclosure
+2017,Air India,Transportation,Passenger booking information breached in cyber attack,India,"$1,700,000",High,Cyber attack,The Hindu
+2017,Chipotle,Retail,Payment system compromised,USA,$30 million,Moderate,Point-of-sale compromise,Company statement
+2017,Arby's,Retail,Payment card data breached,USA,$5 million,Moderate,Point-of-sale compromise,Company disclosure
+2017,Deloitte,Professional Services,Client data exposed,Global,"$500,000",High,Insider breach,Media reports
+2017,Forever 21,Retail,Payment card data stolen,USA,$15 million,Moderate,Point-of-sale compromise,Company statement
+2017,Whole Foods,Retail,Payment card information stolen,USA,$5 million,Moderate,Point-of-sale compromise,Company disclosure
+2017,GameStop,Retail,Customer payment card data compromised,USA,$10 million,Moderate,Point-of-sale compromise,Company statement
+2017,Sonic Drive-In,Retail,Payment card data stolen,USA,$5 million,Moderate,Point-of-sale compromise,Company disclosure
+2017,BigBasket,E-commerce,Customer data compromised in a data breach,India,"$2,100,000",High,Data breach,Times of India
+2017,InterContinental Hotels Group,Hospitality,Payment card data breach,Global,$50 million,High,Point-of-sale compromise,Company disclosure
+2017,Kmart,Retail,Payment card data stolen,USA,$10 million,Moderate,Point-of-sale compromise,Company disclosure
+2017,L&T Infotech,IT Services,Intellectual property stolen by ex-employees,India,"$5,600,000",High,Insider theft,Livemint
+2017,Brooks Brothers,Retail,Payment card data compromised,USA,$20 million,Moderate,Point-of-sale compromise,Company statement
+2017,Saks Fifth Avenue,Retail,Payment card data breach,USA,$20 million,Moderate,Point-of-sale compromise,Company statement
+2017,Sabre Corporation,Technology,Travel booking system hacked,Global,$25 million,Moderate,Cyberattack,Company disclosure
+2017,Equifax,Financial Services,Additional data breach affecting 2.5 million more customers,USA,$150 million,High,Cyberattack,Company disclosure
+2017,Kotak Mahindra Bank,Financial Services,Payment card details compromised in a cyber attack,India,"$3,400,000",High,Cyber attack,Economic Times
+2017,ABTA,Travel,Customer data exposed online,UK,"$20,000",Low,Website vulnerability,ABTA statement
+2017,Brooks Brothers,Retail,Payment card data exposed,USA,$10 million,Moderate,Point-of-sale compromise,Company statement
+2017,Madison Square Garden,Entertainment,Payment card information stolen,USA,$15 million,Moderate,Point-of-sale compromise,Company statement
+2017,Blue Cross Blue Shield,Healthcare,Data of 3.5 million members breached,USA,$30 million,High,Cyberattack,Company disclosure
+2018,Facebook,Technology,Cambridge Analytica scandal,USA,$5 billion,High,Data misuse,Media reports
+2018,Marriott International,Hospitality,Data of 500 million guests exposed,Global,$200 million,High,Cyberattack,Company disclosure
+2018,Quora,Technology,Data of 100 million users breached,USA,$10 million,High,Unauthorized access,Company disclosure
+2018,Dr. Reddy's Laboratories,Pharmaceuticals,Research data accessed by unauthorized personnel,India,"$6,200,000",High,Unauthorized access,Economic Times
+2018,MyFitnessPal,Technology,Data of 150 million users stolen,USA,$5 million,Moderate,Data breach,Company disclosure
+2018,Cathay Pacific,Aviation,Data of 9.4 million passengers compromised,Hong Kong,$150 million,High,Cyberattack,Company disclosure
+2018,Exactis,Technology,Personal data of 340 million individuals exposed,USA,$50 million,High,Misconfigured database,Security researcher report
+2018,British Airways,Aviation,"Data of 500,000 customers compromised",UK,$100 million,High,Magecart attack,Company disclosure
+2018,Chegg,Technology,Data of 40 million users breached,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2018,Zomato,E-commerce,User accounts breached in a hacking incident,India,"$1,000,000",High,Hacking incident,Times of India
+2018,Ticketmaster,Entertainment,Payment card data compromised,Global,$40 million,High,Third-party software vulnerability,Company disclosure
+2018,T-Mobile,Telecommunications,Data of 2 million customers exposed,USA,$30 million,High,Unauthorized access,Company disclosure
+2018,Google+,Technology,API bug exposed data of 52 million users,Global,$10 million,High,Software flaw,Company disclosure
+2018,Bharat Electronics Limited (BEL),Aerospace,Confidential project details leaked due to phishing attack,India,"$8,000,000",High,Phishing attack,Business Today
+2018,Macy's,Retail,Payment card data breach,USA,$20 million,Moderate,Point-of-sale compromise,Company disclosure
+2018,Reddit,Technology,Data of undisclosed number of users compromised,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2018,Under Armour,Retail,MyFitnessPal data breach,USA,$30 million,Moderate,Data breach,Company disclosure
+2018,Dunkin' Donuts,Retail,Payment card data exposed,USA,$10 million,Moderate,Credential stuffing,Company disclosure
+2018,Cathay Pacific,Aviation,"Further data breach affecting 185,000 customers",Hong Kong,$50 million,High,Cyberattack,Company disclosure
+2018,Orbitz,Technology,"Data of 880,000 payment cards exposed",USA,$40 million,High,Cyberattack,Company disclosure
+2018,Best Buy,Retail,Customer payment card data exposed,USA,$20 million,Moderate,Point-of-sale compromise,Company disclosure
+2018,Paytm Mall,E-commerce,Customer data exposed due to misconfigured AWS bucket,India,"$2,500,000",High,Cloud misconfig,Livemint
+2018,Facebook,Technology,Security flaw exposed photos of 6.8 million users,Global,$10 million,High,Software flaw,Company disclosure
+2018,Twitter,Technology,Passwords stored in plaintext,Global,$15 million,High,Security oversight,Company disclosure
+2018,SunTrust Banks,Financial Services,Employee theft of customer data,USA,$40 million,High,Insider breach,Company disclosure
+2018,Saks Fifth Avenue,Retail,Payment card data breach,USA,$20 million,Moderate,Point-of-sale compromise,Company statement
+2018,Delta Air Lines,Aviation,Third-party vendor data breach,USA,$30 million,High,Vendor breach,Company disclosure
+2018,Adidas,Retail,Online store data breach,Global,$10 million,Moderate,Cyberattack,Company disclosure
+2019,Capital One,Financial Services,Data of 100 million customers exposed,USA,$300 million,High,Insider breach,Company disclosure
+2019,First American Financial Corporation,Financial Services,Millions of mortgage documents exposed,USA,$500 million,High,Website misconfiguration,Media reports
+2019,Facebook,Technology,Millions of user passwords stored in plaintext,Global,$100 million,High,Security oversight,Company disclosure
+2019,Canva,Technology,Data of 139 million users breached,Global,$10 million,Moderate,Data breach,Company disclosure
+2019,Zynga,Technology,Data of 218 million users exposed,USA,$30 million,Moderate,Data breach,Company disclosure
+2019,Ola Cabs,Transportation,Driver and passenger data exposed in cloud storage breach,India,"$1,800,000",High,Cloud breach,Livemint
+2019,Desjardins Group,Financial Services,Employee theft of customer data,Canada,$70 million,High,Insider breach,Company disclosure
+2019,CafePress,Retail,Data of 23 million users breached,USA,$10 million,Moderate,Data breach,Company disclosure
+2019,MoviePass,Technology,Unsecured server exposed customer data,USA,$5 million,Moderate,Server misconfiguration,Security researcher report
+2019,Suprema,Technology,Biometric data of millions exposed,Global,$20 million,High,Data breach,Security researcher report
+2019,UrbanClap (now Urban Company),Services,Customer information accessed by unauthorized party,India,"$1,200,000",High,Unauthorized access,Economic Times
+2019,Adobe,Technology,Database with 7.5 million Creative Cloud user records exposed,Global,$20 million,Moderate,Server misconfiguration,Security researcher report
+2019,Wawa,Retail,Payment card data breach,USA,$40 million,High,Malware attack,Company disclosure
+2019,Estée Lauder,Retail,Misconfigured database exposed customer data,USA,$10 million,Moderate,Data breach,Security researcher report
+2019,DoorDash,Technology,Data of 4.9 million users breached,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2019,Biostar 2,Technology,Biometric data of millions exposed,Global,$30 million,High,Data breach,Security researcher report
+2019,Georgia Tech,Education,Data of 1.3 million individuals exposed,USA,$10 million,High,Unauthorized access,Company disclosure
+2019,Jio (Reliance Jio Infocomm),Telecommunications,User data leaked on the web,India,"$5,500,000",High,Web leak,Times of India
+2019,StockX,Retail,Data breach affecting millions of users,USA,$5 million,Moderate,Data breach,Company disclosure
+2019,MGM Resorts,Hospitality,Data of 10.6 million guests exposed,USA,$20 million,Moderate,Unauthorized access,Company disclosure
+2019,Mixcloud,Technology,Data of 21 million users exposed,Global,$10 million,Moderate,Data breach,Company disclosure
+2019,Evite,Technology,Data of 101 million users breached,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2019,DoorDash,Technology,Additional data breach affecting 4.9 million users,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2019,Tata Steel,Manufacturing,Employee records compromised due to cyber attack,India,"$3,000,000",High,Cyber attack,The Hindu
+2019,Zoll Medical,Healthcare,Patient data of millions exposed,Global,$10 million,High,Data breach,Security researcher report
+2019,Macy's,Retail,Data breach exposing customer data,USA,$15 million,Moderate,Unauthorized access,Company disclosure
+2019,DoorDash,Technology,Another data breach affecting 4.9 million users,USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2019,Suprema,Technology,Biometric data of millions exposed again,Global,$30 million,High,Data breach,Security researcher report
+2019,Quest Diagnostics,Healthcare,Data of 12 million patients exposed,USA,$50 million,High,Data breach,Company disclosure
+2020,Marriott International,Hospitality,Data of 5.2 million guests exposed,Global,$25 million,Moderate,Unauthorized access,Company disclosure
+2020,Swiggy,E-commerce,User data compromised in a hacking incident,India,"$1,200,000",High,Hacking incident,The Hindu
+2020,Estée Lauder,Retail,Customer data exposed on unsecured server,USA,$20 million,Moderate,Misconfigured server,Security researcher report
+2020,EasyJet,Aviation,Data of 9 million customers breached,UK,$10 million,Moderate,Cyberattack,Company disclosure
+2020,"University of California, San Francisco",Education,"Data breach affecting 10,000 individuals",USA,$5 million,Moderate,Unauthorized access,University statement
+2020,Apollo Hospitals,Healthcare,Patient records exposed in a cyber attack,India,"$2,700,000",High,Cyber attack,Business Today
+2020,Magellan Health,Healthcare,"Data of 365,000 patients breached",USA,$15 million,Moderate,Ransomware attack,Company disclosure
+2020,Twitter,Technology,Hackers gained access to high-profile accounts,Global,$30 million,High,Social engineering,Company disclosure
+2020,Home Chef,Retail,Data of 8 million customers exposed,USA,$10 million,Moderate,Unauthorized access,Company disclosure
+2020,Blackbaud,Technology,Data of millions of users exposed,Global,$20 million,Moderate,Ransomware attack,Company disclosure
+2020,Dave & Buster's,Retail,Payment card data breach,USA,$10 million,Moderate,Point-of-sale compromise,Company disclosure
+2020,Mahindra & Mahindra Financial Services,Financial Services,Customer data breached through phishing scam,India,"$1,500,000",High,Phishing scam,Economic Times
+2020,Carnival Corporation,Hospitality,"Data of 5,200 individuals compromised",USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2020,Nitro Software,Technology,Data of millions of users exposed,Global,$5 million,Moderate,Unauthorized access,Company disclosure
+2020,San Francisco International Airport,Aviation,Data breach affecting travelers,USA,$20 million,Moderate,Insider breach,Company disclosure
+2020,Canon,Technology,Ransomware attack on company systems,Global,$40 million,High,Cyberattack,Company disclosure
+2020,Barnes & Noble,Retail,Customer data exposed in cyberattack,USA,$10 million,Moderate,Cyberattack,Company disclosure
+2020,University Hospital New Jersey,Healthcare,"Data of 240,000 patients exposed",USA,$30 million,High,Ransomware attack,Company disclosure
+2020,MGM Resorts,Hospitality,Data of 10.6 million guests exposed,USA,$20 million,Moderate,Unauthorized access,Company disclosure
+2020,Wattpad,Technology,Data of 270 million users exposed,Global,$10 million,Moderate,Data breach,Company disclosure
+2020,Myntra,E-commerce,Customer accounts compromised due to credential stuffing,India,"$900,000",Moderate,Credential stuffing,Times of India
+2020,Garmin,Technology,Ransomware attack on company systems,Global,$10 million,Moderate,Cyberattack,Company disclosure
+2020,Blackbaud,Technology,Additional data breach affecting millions,Global,$15 million,Moderate,Ransomware attack,Company disclosure
+2020,J.Crew,Retail,Payment card data breach,USA,$10 million,Moderate,Point-of-sale compromise,Company disclosure
+2020,Puma,Retail,Data breach affecting online store,Global,$5 million,Moderate,Cyberattack,Company disclosure
+2020,Carnival Corporation,Hospitality,"Another data breach affecting 5,200 individuals",USA,$5 million,Moderate,Unauthorized access,Company disclosure
+2020,VillageMD,Healthcare,"Patient data of 40,000 exposed",USA,$5 million,Moderate,Data breach,Company disclosure
+2020,EasyJet,Aviation,Additional data breach affecting 9 million customers,UK,$5 million,Moderate,Cyberattack,Company disclosure
+2021,Colonial Pipeline,Energy,Ransomware attack on pipeline systems,USA,$4.4 million,High,Cyberattack,Company disclosure
+2021,Electronic Arts,Technology,Data of 780 million users stolen,Global,$30 million,High,Unauthorized access,Company disclosure
+2021,T-Mobile,Telecommunications,Data of 100 million customers exposed,USA,$100 million,High,Cyberattack,Company disclosure
+2021,LinkedIn,Technology,Data of 700 million users leaked,Global,$25 million,High,Unauthorized access,Company disclosure
+2021,Facebook,Technology,Data of 533 million users exposed,Global,$50 million,High,Unauthorized access,Company disclosure
+2021,JBS USA,Food,Ransomware attack on meat processing plants,USA,$11 million,High,Cyberattack,Company disclosure
+2021,Microsoft,Technology,Data of 38 million users exposed,Global,$30 million,High,Unauthorized access,Company disclosure
+2021,Air India,Aviation,Data of 4.5 million customers compromised,India,$20 million,High,Cyberattack,Company disclosure
+2021,Experian,Financial Services,Data of 24 million South Africans leaked,South Africa,$10 million,High,Unauthorized access,Company disclosure
+2021,Acer,Technology,Ransomware attack on company systems,Taiwan,$50 million,High,Cyberattack,Company disclosure
+2021,New York City Law Department,Government,Data of 1 million compromised in cyberattack,USA,$5 million,High,Cyberattack,City statement
+2021,Ubiquiti,Technology,Unauthorized access to customer data,USA,$50 million,High,Insider breach,Company disclosure
+2021,CD Projekt,Technology,Data of employees and contractors exposed,Poland,$10 million,High,Cyberattack,Company disclosure
+2021,Volkswagen,Automotive,Vendor data exposed in data leak,Global,$20 million,High,Unauthorized access,Media reports
+2021,Dabur India,Consumer Goods,Confidential business strategy accessed through cyber breach,India,"$1,000,000",Moderate,NA ,
+2021,Electronic Arts,Technology,Source code and tools stolen in hack,Global,$25 million,High,Unauthorized access,Company disclosure
+2021,Kawasaki Heavy Industries,Manufacturing,Ransomware attack on company systems,Japan,$20 million,High,Cyberattack,Company disclosure
+2021,San Francisco Municipal Railway,Transportation,Data breach affecting transit system,USA,$5 million,High,Cyberattack,Company disclosure
+2021,SITA,Technology,Airline passenger data breach,Global,$10 million,High,Cyberattack,Company disclosure
+2021,ANU,Education,Data breach affecting students and staff,Australia,$20 million,High,Cyberattack,University statement
+2021,Axis Bank,Financial Services,Customer data exposed due to a third-party vendor breach,India,"$3,200,000",High,Vendor breach,Times of India
+2021,AT&T,Telecommunications,Unauthorized access to customer data,USA,$30 million,High,Insider breach,Company disclosure
+2021,CNA Financial,Insurance,Ransomware attack on insurance systems,USA,$40 million,High,Cyberattack,Company disclosure
+2021,Peloton,Technology,Data of 4 million users exposed,USA,$10 million,High,Unauthorized access,Company disclosure
+2021,San Francisco International Airport,Aviation,Data breach affecting travelers,USA,$20 million,High,Insider breach,Company disclosure
+2021,EA Sports,Technology,Data of millions of users stolen,Global,$25 million,High,Unauthorized access,Company disclosure
+2021,Harris Federation,Education,Ransomware attack on school systems,UK,$10 million,High,Cyberattack,Company disclosure
+2021,Nykaa,E-commerce,Customer data breached due to supply chain attack,India,"$4,000,000",High,Supply chain attack,Economic Times
+2022,Marriott International,Hospitality,Compromised employee access to 20GB of data,USA,5000000,High,Phishing,IBM Report​ (IBM Newsroom)​
+2022,Shields Health Care Group,Healthcare,Data breach impacting 2 million people,USA,10000000,High,Ransomware,ThreatAdvice​ (Threat Advice)​
+2022,Crypto.com,Finance,Unauthorized access to 483 user accounts,USA,34000000,High,Phishing,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,Twitter,Social Media,Data breach affecting 5.4 million accounts,USA,1500000,High,API Exploit,IBM Report​ (IBM Newsroom)​
+2022,Cash App,Finance,Former employee downloaded reports containing U.S. customer data,USA,8000000,Moderate,Insider Threat,ThreatAdvice​ (Threat Advice)​
+2022,Titan Company,Consumer Goods,Intellectual property stolen through insider threat,India,"$4,800,000",High,Insider threat,Livemint
+2022,Medibank Private,Healthcare,Cyberattack compromised personal data,Australia,35000000,High,Ransomware,IBM Report​ (IBM Newsroom)​
+2022,Neopets,Online Gaming,Data breach affecting 69 million users,USA,2900000,High,Phishing,ThreatAdvice​ (Threat Advice)​
+2022,Uber,Transportation,Attack on vendor exposed driver and customer data,USA,20000000,High,Phishing,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,Indian Bank,Financial Services,Customer accounts compromised due to phishing attack,India,"$2,200,000",High,Phishing attack,Business Today
+2022,Flagstar Bank,Finance,Hack exposed data of 1.5 million customers,USA,4000000,Moderate,Malware,IBM Report​ (IBM Newsroom)​
+2022,Marriott Vacations Worldwide,Hospitality,Unauthorized access to over 5 million guest records,USA,15000000,High,Phishing,ThreatAdvice​ (Threat Advice)​
+2022,Samsung Electronics,Technology,Hackers stole internal company data,South Korea,12000000,High,Malware,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,American Airlines,Aviation,Phishing attack compromised customer and employee data,USA,5000000,High,Phishing,IBM Report​ (IBM Newsroom)​
+2022,Bharat Petroleum Corporation Limited (BPCL),Energy,Operational data breached due to ransomware attack,India,"$6,500,000",High,Ransomware attack,Economic Times
+2022,Los Angeles Unified School District,Education,Ransomware attack disrupted district operations,USA,10000000,High,Ransomware,ThreatAdvice​ (Threat Advice)​
+2022,Revolut,Finance,"Breach affected 50,000 customers' personal data",UK,2000000,High,Phishing,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,Facebook,Social Media,Leak exposed phone numbers of over 500 million users,USA,10000000,High,Data Scraping,IBM Report​ (IBM Newsroom)​
+2022,Optus,Telecom,Cyberattack exposed personal data of nearly 10 million customers,Australia,10000000,High,Phishing,ThreatAdvice​ (Threat Advice)​
+2022,AT&T,Telecom,Data breach exposed proprietary company information,USA,9000000,High,Insider Threat,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,"Block, Inc.",Technology,Former employee accessed customer data,USA,5000000,Moderate,Insider Threat,IBM Report​ (IBM Newsroom)​
+2022,Coca-Cola,Beverage,Ransomware attack stole financial data,USA,20000000,High,Ransomware,ThreatAdvice​ (Threat Advice)​
+2022,Byju's,EdTech,User data leaked in a cyber incident,India,"$3,000,000",High,Cyber incident,Times of India
+2022,DoorDash,Delivery Service,Third-party vendor breach exposed customer data,USA,10000000,High,Third-Party Vendor,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,Nvidia,Technology,Ransomware attack affected company operations,USA,10000000,High,Ransomware,IBM Report​ (IBM Newsroom)​
+2022,Plex,Streaming Service,Hack compromised personal information of users,USA,3000000,High,Phishing,ThreatAdvice​ (Threat Advice)​
+2022,TransUnion,Credit Reporting,Unauthorized access to customer data,USA,7000000,High,Insider Threat,Hartman Advisors​ (Hartman Executive Advisors)​
+2022,T-Mobile,Telecom,Data breach affecting 37 million customers,USA,50000000,High,API Exploit,IBM Report​ (IBM Newsroom)​
+2022,Robinhood,Finance,Data breach affecting 7 million customers,USA,10000000,High,Phishing,ThreatAdvice​ (Threat Advice)​
+2023,Latitude Financial,Financial Services,Unauthorized access and data theft,Australia,"50,000,000",High,Phishing,TechCrunch
+2023,LastPass,Software,Data leak including vaults,USA,"50,000,000",High,Hacking,Forbes
+2023,UK Electoral Commission,Government,Unauthorized access to electoral registers,UK,"2,000,000",High,Cyber-attack,BBC News
+2023,DISH Network,Telecommunications,Ransomware attack causing service outage,USA,"30,000,000",High,Ransomware,BleepingComputer
+2023,Vedanta Limited,Mining,Environmental impact assessment data leaked in cyber incident,India,"$3,700,000",High,Cyber incident,The Hindu
+2023,Yum! Brands,Food Services,Ransomware affecting operations,USA,"20,000,000",Moderate,Ransomware,Security Magazine
+2023,Swedish Transport Agency,Government,Data leak of personal records,Sweden,"10,000,000",High,Human error,NordLayer
+2023,PharMerica,Healthcare,Data breach exposing personal health information,USA,"4,000,000",High,Hacking,HealthITSecurity
+2023,Tata Power,Energy,Cyberattack disrupting operations,India,"5,000,000",Moderate,Cyber-attack,CyberSecurity News
+2023,Hyundai,Automotive,Data leak impacting customers,South Korea,"3,000,000",Moderate,Hacking,Cyber Security Connect
+2023,OpenAI,Technology,Unauthorized data access,USA,"2,500,000",Moderate,Phishing,Wired
+2023,Microsoft,Technology,Data breach of customer email accounts,USA,"20,000,000",High,Hacking,The Verge
+2023,Boeing,Aerospace,Data leak through vendor,USA,"15,000,000",High,Third-party breach,TechRepublic
+2023,Toyota,Automotive,Cyberattack disrupting production,Japan,"25,000,000",High,Cyber-attack,Reuters
+2023,Medibank,Healthcare,Data theft impacting millions,Australia,"35,000,000",High,Hacking,ABC News
+2023,Dropbox,Technology,Unauthorized access to user data,USA,"10,000,000",Moderate,Phishing,The Register
+2023,Hindustan Aeronautics Limited (HAL),Aerospace,Classified military project details breached in cyber attack,India,"$10,000,000",High,Cyber attack,Economic Times
+2023,Marriott,Hospitality,Data breach of guest information,USA,"15,000,000",High,Hacking,Hospitality Net
+2023,Optus,Telecommunications,Unauthorized access to customer data,Australia,"25,000,000",High,Hacking,The Guardian
+2023,Indonesia Immigration,Government,Data leak of passport information,Indonesia,"10,000",High,Cyber-attack,CPO Magazine
+2023,Twitter,Social Media,Data breach exposing user data,USA,"8,000,000",High,Hacking,CNN Business
+2023,OYO Rooms,Hospitality,Guest reservation data compromised in a data breach,India,"$1,500,000",High,Data breach,Times of India
+2023,PayPal,Financial Services,Data breach of user accounts,USA,"12,000,000",High,Credential stuffing,SecurityWeek
+2023,Zoom,Technology,Data leak impacting users,USA,"3,000,000",Moderate,Hacking,ZDNet
+2023,Biocon,Pharmaceuticals,Research and development data breached due to phishing scam,India,"$5,200,000",High,Phishing scam,Livemint
+2023,Sony,Entertainment,Data breach impacting user accounts,USA,"7,000,000",High,Hacking,Polygon
+2023,Apple,Technology,Data breach exposing customer info,USA,"25,000,000",High,Phishing,TechCrunch
+2023,Capital One,Financial Services,Data breach exposing customer data,USA,"30,000,000",High,Hacking,Reuters
